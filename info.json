@@ -1,0 +1,10 @@
+{
+	"name": "cargo-containers",
+	"version": "0.0.0",
+	"title": "Cargo Containers",
+	"author": "thorsummoner@live.com",
+	"description": "Shipping Cotnainers",
+	"dependencies": ["base >= 0.12.11"],
+    "homepage": "TBD",
+	"license": "GNU GPL v3"
+}
