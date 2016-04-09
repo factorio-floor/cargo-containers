@@ -84,16 +84,16 @@ data:extend(
         percent = 90
       }
     },
-    collision_box = {{-3.0, -0.1}, {1.6, 1.7}},
-    selection_box = {{-3.5, -1.5}, {1.8, 2}},
+    collision_box = {{-2.35, -0.85}, {2.35, 0.85}},
+    selection_box = {{-2.5, -1.15}, {2.5, 1}},
     inventory_size = 60,
-    vehicle_impact_sound =  { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+    vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
     picture =
     {
       filename = "__cargo-containers__/graphics/entity/box-20/box-20-east.png",
       priority = "low",
-      width = 272,
-      height = 130,
+      width = 280,
+      height = 200,
       shift = {0, 0}
     },
   },
