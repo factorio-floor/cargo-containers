@@ -6,5 +6,6 @@
 	"description": "Shipping Cotnainers",
 	"dependencies": ["base >= 0.12.11"],
     "homepage": "TBD",
-	"license": "GNU GPL v3"
+	"license": "GNU GPL v3",
+    "factorio_version": "0.14"
 }
